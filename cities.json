@@ -1,0 +1,17 @@
+{
+  "Agra": { "state": "Uttar Pradesh", "url": "" },
+  "Ayodhya": { "state": "Uttar Pradesh", "url": "" },
+  "Delhi": { "state": "Delhi", "url": "" },
+  "Gonda": { "state": "Uttar Pradesh", "url": "" },
+  "Gorakhpur": { "state": "Uttar Pradesh", "url": "" },
+  "Jammu": { "state": "Uttar Pradesh", "url": "" },
+  "Kanpur": { "state": "Uttar Pradesh", "url": "" },
+  "Lakshadweep": { "state": "Uttar Pradesh", "url": "" },
+  "Lucknow": { "state": "Uttar Pradesh", "url": "" },
+  "Mathura": { "state": "Uttar Pradesh", "url": "" },
+  "Mysore": { "state": "Karnataka", "url": "" },
+  "Noide": { "state": "Uttar Pradesh", "url": "" },
+  "Pratapgarh": { "state": "Uttar Pradesh", "url": "" },
+  "Prayagraj": { "state": "Uttar Pradesh", "url": "" },
+  "Varanasi": { "state": "Uttar Pradesh", "url": "" }
+}
