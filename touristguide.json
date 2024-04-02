@@ -9,5 +9,16 @@
     "day_charge":"1500",
     "last_date":"09/14/2024",
     "languages":["Hindi","English","Telugu"]
+  },
+   { "tg_id":2,
+    "profile":"https://scontent.fslv1-4.fna.fbcdn.net/v/t1.6435-1/115988598_286721125998964_5574278555190043819_n.jpg?stp=dst-jpg_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5NcLCBjMneIAX_0Z_WO&_nc_ht=scontent.fslv1-4.fna&oh=00_AfDSHM4QxbLjSgpTkEnqFew8z4qGhxxopvxhdr-9-jY9tw&oe=66331682",
+   "city":"Ayodhya",
+    "name":"Aman Pratap Singh",
+    "mobile":"9625649529",
+    "license":"AY/24/1056",
+    "valid_upto":"14/01/2034",
+    "day_charge":"1300",
+    "last_date":"09/14/2024",
+    "languages":["Hindi","English"]
   }
 ]
